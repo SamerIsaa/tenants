@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Resources\PanelDataTable;
+namespace App\Http\Resources\PanelDatatable;
 
 use App\Model\PaymentLog;
 use Carbon\Carbon;

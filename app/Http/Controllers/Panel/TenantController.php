@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Panel;
 use App\Constants\StatusCodes;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Panel\TenantRequest;
-use App\Http\Resources\PanelDataTable\TenantResource;
+use App\Http\Resources\PanelDatatable\TenantResource;
 use App\Models\Tenant;
 use Illuminate\Http\Request;
 
