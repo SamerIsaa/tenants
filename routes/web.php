@@ -7,7 +7,6 @@ use App\Http\Controllers\Media\ImageHandler;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    dd(12);
     return view('welcome');
 });
 
